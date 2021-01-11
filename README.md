@@ -1,2 +1,2 @@
 # covid19
-Prediction of Covid 19 cases using FBProphet.
+Time series Prediction of Covid-19 cases using FBProphet.
